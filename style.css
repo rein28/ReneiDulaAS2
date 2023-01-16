@@ -45,7 +45,7 @@ p{
 
 /*--------------HOME PAGE----------------------*/
 .header{
-    min-height: 60vh;
+    min-height: 80vh;
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(./images/home-image.jpg);
     background-position: center center;
@@ -244,9 +244,12 @@ nav .fa{
         height: 90px;
         
     }
-    h1,h2{
-        font-size: 20px;
+    h1{
+        font-size: 18px;
     }
+	h2{
+        font-size: 15px;
+	}
     .sub-header img{
         width: 90px;
         height: 90px;
